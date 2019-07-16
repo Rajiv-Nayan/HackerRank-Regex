@@ -1,0 +1,3 @@
+#python was not supported for this question, so used PHP 
+
+Regex_Pattern = '/^tac(tac(tic)?)*$/'
